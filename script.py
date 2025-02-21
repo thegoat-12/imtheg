@@ -1,1 +1,1 @@
-# imtheg
+print("Hello, World!")
